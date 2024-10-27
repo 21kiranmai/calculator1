@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,10 +82,9 @@
         }
 
         .tab {
-            background-color: #2196F3;
              padding: 10px 20px;
-            background-color: #blue;
-            border: none;
+             background-color: #2196F3;
+             border: none;
             cursor: pointer;
             border-radius: 4px;
         }
